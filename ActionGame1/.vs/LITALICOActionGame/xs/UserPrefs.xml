@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{CE95DFA3-9532-369D-FE1F-634E5EAD9006}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/Goal.cs">
+    <Files>
+      <File FileName="Assets/scripts/PlayerMove.cs" Line="57" Column="4" />
+      <File FileName="Assets/scripts/CameraMove.cs" />
+      <File FileName="Assets/scripts/TrapMove.cs" Line="16" Column="35" />
+      <File FileName="Assets/scripts/Goal.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LITALICOActionGame" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="9c5d5340-9504-4d58-a216-4fd496f90528" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
