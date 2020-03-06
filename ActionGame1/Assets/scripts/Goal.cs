@@ -19,8 +19,15 @@ public class Goal : MonoBehaviour
     }
 	private void OnTriggerEnter(Collider other)
 	{
-        if (other.gameObject.tag == "Player") {
+        if (other.gameObject.tag == "Player")
+		{
             GoalText.SetActive(true);
+            Invoke("setFalse", 4);
 		}
+	}
+
+    void setFalse()
+	{
+        GoalText.SetActive(false);
 	}
 }

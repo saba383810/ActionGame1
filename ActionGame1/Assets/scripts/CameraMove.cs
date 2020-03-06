@@ -22,4 +22,6 @@ public class CameraMove : MonoBehaviour
         transform.position = new Vector3(posx, posy + 10, posz - 10);
 
     }
+
+	
 }

@@ -52,11 +52,6 @@ public class PlayerMove : MonoBehaviour
             transform.position = new Vector3(0, 4, 0);
 		}
 
-        if (hit.gameObject.tag == "Goal")
-        {
-			
-		}
-
 		
 	}
 }
